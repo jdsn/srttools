@@ -7,6 +7,9 @@ our $limit=0.94;
 # CPAN install Video::Subtitle::SRT
 # zypper in perl-Video-Subtitle-SRT
 
+# Copyright 2012 Bernhard M. Wiedemann
+# License: GNU General Public License version 2
+
 
 use Video::Subtitle::SRT qw"milliseconds_to_srt_time srt_time_to_milliseconds";
 
