@@ -1,6 +1,5 @@
 #!/usr/bin/perl -w
 use strict;
-our $limit=0.94;
 
 # adjust one srt file timestamps with an offset
 
